@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1519584777 source:f:\faculty\me\2nd term\data compression\projects\input\output numbers\main.cpp
+	<bits/stdc++.h>
+	<string>
+	<bitset>
+	<iostream>
+

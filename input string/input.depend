@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1519586640 source:c:\users\mohamed emad\desktop\input\input string\main.cpp
+	<bits/stdc++.h>
+	<string>
+	<bitset>
+	<iostream>
+
